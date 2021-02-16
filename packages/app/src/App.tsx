@@ -36,6 +36,7 @@ import { Router as LighthouseRouter } from '@backstage/plugin-lighthouse';
 import { Router as RegisterComponentRouter } from '@backstage/plugin-register-component';
 import { Router as SettingsRouter } from '@backstage/plugin-user-settings';
 import { Router as ImportComponentRouter } from '@backstage/plugin-catalog-import';
+import { Router as TechDocsNextRouter } from '@backstage/plugin-techdocs-next';
 import { Route, Navigate } from 'react-router';
 
 import { EntityPage } from './components/catalog/EntityPage';
@@ -90,6 +91,7 @@ const routes = (
     />
     <Route path="/settings" element={<SettingsRouter />} />
     {...deprecatedAppRoutes}
+    <Route path="/techdocs-next" element={<TechDocsNextRouter />} />
   </FlatRoutes>
 );
 
