@@ -12027,9 +12027,9 @@ es6-weak-map@^2.0.2:
     es6-symbol "^3.1.1"
 
 esbuild@^0.8.16:
-  version "0.8.16"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.8.16.tgz#8ae34b15d938e8b8b5ac2459414fe3e7fd7dd6b2"
-  integrity sha512-HMvPNxDIhEGO/YUh8oO8oxQ1g+ttWz2anUF7NJmQglj2XfJS8zd8mP0Sb2y+jE1SVk3UjD/rYhdsEOFULN9/xw==
+  version "0.8.52"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.8.52.tgz#6dabf11c517af449a96d66da20dfc204ee7b5294"
+  integrity sha512-b5KzFweLLXoXQwdC/e2+Z80c8uo2M5MgP7yQEEebkFw6In4T9CvYcNoM2ElvJt8ByO04zAZUV0fZkXmXoi2s9A==
 
 escalade@^3.0.1:
   version "3.0.2"
