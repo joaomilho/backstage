@@ -12026,10 +12026,10 @@ es6-weak-map@^2.0.2:
     es6-iterator "^2.0.3"
     es6-symbol "^3.1.1"
 
-esbuild@^0.8.16:
-  version "0.8.16"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.8.16.tgz#8ae34b15d938e8b8b5ac2459414fe3e7fd7dd6b2"
-  integrity sha512-HMvPNxDIhEGO/YUh8oO8oxQ1g+ttWz2anUF7NJmQglj2XfJS8zd8mP0Sb2y+jE1SVk3UjD/rYhdsEOFULN9/xw==
+esbuild@^0.12.9:
+  version "0.12.9"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.12.9.tgz#bed4e7087c286cd81d975631f77d47feb1660070"
+  integrity sha512-MWRhAbMOJ9RJygCrt778rz/qNYgA4ZVj6aXnNPxFjs7PmIpb0fuB9Gmg5uWrr6n++XKwwm/RmSz6RR5JL2Ocsw==
 
 escalade@^3.0.1:
   version "3.0.2"
